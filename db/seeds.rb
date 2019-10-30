@@ -28,8 +28,8 @@ but also the leap into electronic typesetting, remaining essentially unchanged. 
  the release of Letraset sheets containing Lorem Ipsum
   passages, and more recently with desktop
 publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-               main_image:"https://www.google.com/search?q=image&sxsrf=ACYBGNQdtUc7SwbI87rEE6d8FjfhJSYC8Q:1572345063208&tbm=isch&source=iu&ictx=1&fir=mjqTgNVVNJLpfM%253A%252CLlgDpz1LoiuznM%252C_&vet=1&usg=AI4_-kRyR1HEb-OqkZA8EDpRXtVImPrEpw&sa=X&ved=2ahUKEwi8pNPnocHlAhWk2uAKHaRhCLQQ9QEwBHoECAMQNg#imgrc=mjqTgNVVNJLpfM:",
-             
+               thumb_image:"https://www.google.com.pk/search?q=image+300x300&sxsrf=ACYBGNS3J45-Kc3B6zKrEExfwYuimovgTQ:1572349004699&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiPhY2_sMHlAhVKqxoKHbtwBqUQ_AUIEigB&biw=1366&bih=568#imgrc=9sRBxwe9KXeYyM:",
+
 
 
 
